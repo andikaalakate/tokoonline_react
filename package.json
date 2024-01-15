@@ -1,15 +1,14 @@
 {
-  "name": "ecommerce-react",
-  "version": "1.2.0",
+  "name": "tokoonline_react",
+  "version": "1.0.0",
   "main": "index.js",
-  "author": "Julius Guevarra",
+  "author": "Andika Alakate",
   "keywords": [
     "react-webpack",
     "boilerplate",
     "react-webpack-boilerplate",
     "react-boilerplate"
   ],
-  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build  && cd dist && cp index.html 404.html",
